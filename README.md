@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alagesan V
+- 👋 Hi, I’m @alagesan C
 - 👀 I’m interested in java full stack developer 
 - 🌱 I’m currently learning gandhigram rural University 
 - 💞️ I’m looking to collaborate on the profitup media 
